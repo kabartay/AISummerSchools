@@ -26,11 +26,12 @@ List of summer schools and workshops in AI/ML/DL/DS areas.
 
 School | ISO | Type | Date | Deadline |  Talk | Fees (Aid) 
 ---    | --- | ---  |  --- | ---      | ---   | --- 
-[7th International SS on BigData](https://irdta.eu/bigdat2021s/)                           | IL | Onsite | Oct 10 - Oct 14 | Feb 16 |  N  | 460/550€ (N) 
+[7th International Summer School on BigData](https://irdta.eu/bigdat2021s/)                | IL | Onsite | Oct 10 - Oct 14 | Feb 16 |  N  | 460/550€ (N) 
 [Data-Driven Predictive Maintenance for Industry 4.0](https://hh.se/PMSummerSchool)        | SE | Online | Oct 3  - Oct 5  | Aug 31 |  N  | 50/80€ (Y)
 [PyConDE 2021](https://de.pycon.org/)                                                      | DE | Onsite | Oct X  - Oct X  |  soon  |**Y**| soon 
 [Gaussian Process and Uncertainty Quantification](http://gpss.cc/gpss21/)                  | UK | Online | Sep 13 - Sep 13 | Sep 1  |  N  | £50/100 
 [PyConRU 2021](https://pycon.ru/)                                                          | RU | Onsite | Sep 5  - Sep 6  |  soon  |**Y**| 14000 RUB 
+[2nd Summer School on ML in Bioinformatics](https://cs.hse.ru/ssml/)                       | RU | Online | Aug 23 - Aug 27 | Jul 23 |  N  | **FREE** 
 [Summer School of ML at Skoltech (SMILES)](https://smiles.skoltech.ru/school)              | RU | Online | Aug 15 - Aug 22 | Aug 1  |**Y**| **FREE**
 [2nd Oxford ML School (OxML 2021)](www.oxfordml.school)                                    | UK | Online | Aug 9  - Aug 20 | Apr 15 |  N  | £60/120/300 (Y)
 [CIFAR DL & RL School (DLDR)](https://dlrl.ca/)                                            | CA | Online | Jul 26 - Jul 31 | Apr 9  |  N  | 75CAD (N) 
@@ -51,7 +52,7 @@ School | ISO | Type | Date | Deadline |  Talk | Fees (Aid)
 [4th Institute of Space Sciences School](https://indico.ice.csic.es/event/26/)             | ES | Onsite | Jul 5  - Jul 9  | Apr 30 |  N  | 60€ (N)
 [International SS on DL (ISSDL 2021)](https://2021.dl-lab.eu/)                             | PO | Online | Jul 5  - Jul 9  | Mar 30 |  N  | 45/59$ (N)
 [AL-DLDA 2021 International SS on AI](https://www.ip4fvg.it/summer-school/)                | IT | Online | Jun 28 - Jul 2  | Jun 4  |  N  | 200/500€ (Y)
-["Управление, информация и оптимизация"](https://ssopt.org/)                    | RU | Onsite | Jun 10 - Jun 17 | May 15 |**Y**| **FREE**
+["Управление, информация и оптимизация"](https://ssopt.org/)                               | RU | Onsite | Jun 10 - Jun 17 | May 15 |**Y**| **FREE**
 [5th Deep Learning and AI Summer School (DLAI5)](deeplearningandaiwinterschool.github.io/) | TH | Online | May 6  - May 10 | May 6  |  N  | **FREE**
 [1st Toulouse ANITI RL School](https://rlvs.aniti.fr/)                                     | FR | Online | Mar 25 - Apr 9  | Mar 25 |  N  | **FREE**
 [4th DS School (DS<sup>3</sup>)](https://www.ds3-datascience-polytechnique.fr/)            | FR | Online | Jan 4  - Jan 9  |*Oct 20*|**Y**| 50/200€ (N)
