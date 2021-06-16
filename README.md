@@ -29,6 +29,7 @@ School | ISO | Type | Date | Deadline |  Talk | Fees (Aid)
 [7th International Summer School on BigData](https://irdta.eu/bigdat2021s/)                | IL | Onsite | Oct 10 - Oct 14 | Feb 16 |  N  | 460/550€ (N) 
 [Data-Driven Predictive Maintenance for Industry 4.0](https://hh.se/PMSummerSchool)        | SE | Online | Oct 3  - Oct 5  | Aug 31 |  N  | 50/80€ (Y)
 [PyConDE 2021](https://de.pycon.org/)                                                      | DE | Onsite | Oct X  - Oct X  |  soon  |**Y**| soon 
+[KTU Big Data School 2021](https://bigdataschool.ktu.edu/)                                 | LT | Onsite | Sep 22 - Sep 24 | Sep 5  |  N  | 350/500€ (N)
 [Gaussian Process and Uncertainty Quantification](http://gpss.cc/gpss21/)                  | UK | Online | Sep 13 - Sep 13 | Sep 1  |  N  | £50/100 
 [PyConRU 2021](https://pycon.ru/)                                                          | RU | Onsite | Sep 5  - Sep 6  |  soon  |**Y**| 14000 RUB 
 [2nd Summer School on ML in Bioinformatics](https://cs.hse.ru/ssml/)                       | RU | Online | Aug 23 - Aug 27 | Jul 23 |  N  | **FREE** 
