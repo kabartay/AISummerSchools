@@ -30,6 +30,7 @@ School | ISO | Type | Date | Deadline |  Talk | Fees (Aid)
 [Data-Driven Predictive Maintenance for Industry 4.0](https://hh.se/PMSummerSchool)             | SE | Online | Oct 3  - Oct 5  | Aug 31 |  N  | 50/80€ (Y)
 [PyConDE 2021](https://de.pycon.org/)                                                           | DE | Onsite | Oct X  - Oct X  |  soon  |**Y**| soon 
 [KTU Big Data School 2021](https://bigdataschool.ktu.edu/)                                      | LT | Onsite | Sep 22 - Sep 24 | Sep 5  |  N  | 350/500€ (N)
+[Beyond AI](https://www.v2c2.at/summerschool2021/)                                              | AT | Online | Sep 13 - Sep 15 | Sep 1  |  N  | **FREE** 
 [Gaussian Process and Uncertainty Quantification](http://gpss.cc/gpss21/)                       | UK | Online | Sep 13 - Sep 13 | Sep 1  |  N  | £50/100 
 [PyConRU 2021](https://pycon.ru/)                                                               | RU | Onsite | Sep 5  - Sep 6  |  soon  |**Y**| 14000 RUB
 [Leibniz MMS Summer School 2021](www.wias-berlin.de/research/Leibniz-MMS/SummerSchool21/)       | DE | Onsite | Aug 23 - Aug 27 | Jul 29 |  N  | **FREE** 
