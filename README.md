@@ -38,14 +38,14 @@ School | ISO | Type | Date | Deadline |  Talk | Fees (Aid)
 [HSE 2nd Summer School on ML in Bioinformatics](https://cs.hse.ru/ssml/)                        | RU | Online | Aug 23 - Aug 27 | Jul 23 |  N  | **FREE** 
 [SkolTech Summer School of ML (SMILES)](https://smiles.skoltech.ru/school)                      | RU | Online | Aug 15 - Aug 22 | Aug 1  |**Y**| **FREE**
 [Oxford 2nd ML School (OxML 2021)](https://www.oxfordml.school)                                 | UK | Online | Aug  9 - Aug 20 | Apr 15 |  N  | £60/120/300 (Y)
-[IIIT 5th Summer School on AI 2021 Hyderabad: CV & ML](http://cvit.iiit.ac.in/summerschool2021/)| IN | Online | Aug  2 - Aug 31 | Aug  2 |  N  | 50$ (N) 
+[IIIT 5th Summer School on AI 2021: CV & ML](http://cvit.iiit.ac.in/summerschool2021/)          | IN | Online | Aug  2 - Aug 31 | Aug  2 |  N  | 50$ (N) 
 [ML Summer School 2021 Taipei](http://ai.ntu.edu.tw/mlss2021/)                                  | TW | Online | Aug  2 - Aug 20 | Jun 30 |  Y  | 0/40/120$ (N) 
 [CIFAR DL & RL School (DLDR)](https://dlrl.ca/)                                                 | CA | Online | Jul 26 - Jul 31 | Apr 9  |  N  | 75CAD (N) 
 [4th International School on DL](https://irdta.eu/deeplearn2021s/)                              | ES | Hybrid | Jul 26 - Jul 30 | Feb 24 |  N  | 460/550€ (N)
 [Vilnius ML Workshop (WEEML)](https://workshops.eeml.eu/)                                       | LT | Online | Jul 29 - Jul 30 | Jul 26 |  N  | **FREE**
 [JuliaCon 2021](https://juliacon.org/2021)                                                      | -  | Online | Jul 28 - Jul 30 | Jul 30 |  N  | **FREE** 
-[ETHZ CSCS-USI Summer School: Effective HPC & Data Analytics with GPUs](https://www.cscs.ch/events/upcoming-events/event-detail/cscs-usi-summer-school-2021/)   | CH | Online | Jul 19 - Jul 30 | May 10  |  N  | **FREE** 
-[ITMO Summer Camp in ML](https://en.itmo.ru/en/viewjep/3/15/Summer_Camp_in_Machine_Learning_2021.htm)   | RU | Online | Jul 19 - Jul 30 | Jul 8  |  N  | 245€ (N) 
+[ETHZ CSCS-USI Summer School: HPC & GPUs](https://www.cscs.ch/events/upcoming-events/event-detail/cscs-usi-summer-school-2021/)   | CH | Online | Jul 19 - Jul 30 | May 10  |  N  | **FREE** 
+[ITMO Summer Camp in ML](https://en.itmo.ru/en/viewjep/3/15/Summer_Camp_in_Machine_Learning_2021.htm) | RU | Online | Jul 19 - Jul 30 | Jul 8  |  N  | 245€ (N) 
 [1st Inria-DFKI European SS on AI (IDAI 2021)](https://idessai.inria.fr/)                       | FR | Onsite | Jul 20 - Jul 23 | Apr 19 |**Y**| 360€ (N) 
 [UCL Medical Image Computing School (MedICSS)](https://medicss.cs.ucl.ac.uk/)                   | UK | Online | Jul 19 - Jul 23 | Apr 12 |  N  | £50/70 (N)
 [4th Advanced SS on DS & ML (ACDL 2021)](https://acdl2021.icas.cc/])                            | IT | OnsOnl | Jul 19 - Jul 23 | Feb 15 |**Y**| 290/580€ (N) 
@@ -62,7 +62,7 @@ School | ISO | Type | Date | Deadline |  Talk | Fees (Aid)
 [UZH Scientific Programming with Python](https://www.physik.uzh.ch/~python/python/index.php)    | CH | Online | Jun 28 - Jul  2 | Mar 31 |  N  | **FREE** 
 [UZH IfI Summer School 2021](https://www.ifi.uzh.ch/en/studies/phd/summer-schools/summerschool2021.html)| CH | Online | Jun 28 - Jul 2  | Jun 28 |  N  | 250CHF
 [AL-DLDA 2021 International SS on AI](https://www.ip4fvg.it/summer-school/)                     | IT | Online | Jun 28 - Jul  2 | Jun 4  |  N  | 200/500€ (Y)
-[Вороново "Управление, информация и оптимизация"](https://ssopt.org/)                           | RU | Onsite | Jun 10 - Jun 17 | May 15 |**Y**| **FREE**
+["Управление, информация и оптимизация"](https://ssopt.org/)                                    | RU | Onsite | Jun 10 - Jun 17 | May 15 |**Y**| **FREE**
 [5th Deep Learning and AI Summer School (DLAI5)](https://deeplearningandaiwinterschool.github.io)| TH | Online | May  6 - May 10 | May 6  |  N  | **FREE**
 [1st Toulouse ANITI RL School](https://rlvs.aniti.fr/)                                          | FR | Online | Mar 25 - Apr  9 | Mar 25 |  N  | **FREE**
 [4th DS School (DS<sup>3</sup>)](https://www.ds3-datascience-polytechnique.fr/)                 | FR | Online | Jan  4 - Jan  9 |*Oct 20*|**Y**| 50/200€ (N)
