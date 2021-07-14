@@ -33,7 +33,7 @@ School | ISO | Type | Date | Deadline |  Talk | Fees (Aid)
 [Beyond AI](https://www.v2c2.at/summerschool2021/)                                              | AT | Online | Sep 13 - Sep 15 | Sep 1  |  N  | **FREE** 
 [Gaussian Process and Uncertainty Quantification](http://gpss.cc/gpss21/)                       | UK | Online | Sep 13 - Sep 13 | Sep 1  |  N  | £50/100 
 [PyConRU 2021](https://pycon.ru/)                                                               | RU | Onsite | Sep 5  - Sep 6  |  soon  |**Y**| 14000 RUB
-[Leibniz MMS Summer School 2021](https://www.wias-berlin.de/research/Leibniz-MMS/SummerSchool21)| DE | Onsite | Aug 23 - Aug 27 | Jul 29 |  N  | **FREE** 
+[Leibniz MMS Summer School 2021](https://www.wias-berlin.de/research/Leibniz-MMS/SummerSchool21)| DE | Onsite | Aug 23 - Aug 27 | Jun 29 |  N  | **FREE** 
 [HSE 2nd Summer School on ML in Bioinformatics](https://cs.hse.ru/ssml/)                        | RU | Online | Aug 23 - Aug 27 | Jul 23 |  N  | **FREE** 
 [SkolTech Summer School of ML (SMILES)](https://smiles.skoltech.ru/school)                      | RU | Online | Aug 15 - Aug 22 | Aug 1  |**Y**| **FREE**
 [Oxford 2nd ML School (OxML 2021)](https://www.oxfordml.school)                                 | UK | Online | Aug 9  - Aug 20 | Apr 15 |  N  | £60/120/300 (Y)
